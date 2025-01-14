@@ -22,11 +22,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Enable Internet Information Services (IIS) from the Windows control panel 
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Install/Enable Internet Information Services (IIS) from the Windows control panel WITH CGI (Common Gateway Interface) and Common HTTP Features
+- From the linked "Installation Files" Directory in google drive:
+  - Download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
+  - Download and install the Rewrite Module (rewrite_amd64_en-US.msi)
+  - Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP  
+  - Download and install VC_redist.x86.exe
+  - Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
 
 <h2>Installation Steps</h2>
 
