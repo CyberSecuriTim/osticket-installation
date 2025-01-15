@@ -187,6 +187,14 @@ Open the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNy
 
 ![image](https://github.com/user-attachments/assets/daf9edf2-c4bc-4163-bd63-e6134f880fe2)
 
+- Continue configuring osTicket in the browser:
+  - MySQL Database: osTicket
+  - MySQL Username: root
+  - MySQL Password: (whatever password was used during the intial creation of the MySQL server instance)   
+
+
+![image](https://github.com/user-attachments/assets/e59037d2-87e5-495c-9e70-fcfeb8592980)
+
 </p>
 
 
