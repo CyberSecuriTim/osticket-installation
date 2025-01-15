@@ -134,7 +134,9 @@ Open the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNy
 ![image](https://github.com/user-attachments/assets/3a8b1d4e-b576-459a-b355-926d10bceef1)
 
 - Restart the IIS server within IIS Manager to ensure the changes take effect.
-- 
+
+- Within IIS Manager, in the connections panel on the left side, navigate to Sites ---> Default Web Site ---> osTicket
+  - Then select "Browse *:80" to establish an http connection via port 80 on the local host address (127.0.0.0/8) to the osTicket server instance.    
 
 </p>
 
