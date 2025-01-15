@@ -118,6 +118,11 @@ Open the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNy
       - Username: root
       - Password: (Assign your own password)
      
+
+  - Open IIS Manager and run as administrator
+
+![image](https://github.com/user-attachments/assets/76bd8122-bd5a-466f-90d9-fe91504a2a21)
+
 </p>
 
 
