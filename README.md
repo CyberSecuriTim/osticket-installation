@@ -202,4 +202,8 @@ Open the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNy
 Congratulations!! You have now *hopefully* successfully installed osTicket.
 </p>
 
+<h2>
+  FINAL STEP: Time to Clean Up!
+</h2>
+
 
