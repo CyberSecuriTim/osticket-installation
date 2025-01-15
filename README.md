@@ -211,6 +211,8 @@ Congratulations!! You have now *hopefully* successfully installed osTicket.
   
   ![image](https://github.com/user-attachments/assets/ddf25eeb-815b-4c45-857a-2b841fae4631)
 
+  - Set permissions to "Read" only for the "C:\inetpub\wwwrooot\osTicket\include\ost-config.php" file
+
 </p>
 
 
