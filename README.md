@@ -84,7 +84,7 @@ STEP 3: Install/Enable IIS (Internet Information Services) in Windows WITH CGI a
 
 ![image](https://github.com/user-attachments/assets/c6f9b73c-b1bd-4485-8d06-2ff4366f82ea)
 
-   - To test the successful installation of IIS, type the VM's loopback address (127.0.0.0/8) into the address bar of a web browser and a screen that looks similar to this should be generated.
+   - To test the successful installation of IIS, type the VM's loopback address (any ip address in the address space of 127.0.0.0/8) into the address bar of a web browser and a screen that looks similar to this should be generated.
 ![image](https://github.com/user-attachments/assets/409b7a50-7d1b-4d55-9fc3-fffbd533e5c4)
 
 </p>
