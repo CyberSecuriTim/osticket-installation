@@ -195,6 +195,8 @@ Open the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNy
 
 ![image](https://github.com/user-attachments/assets/e59037d2-87e5-495c-9e70-fcfeb8592980)
 
+- Click "Install Now"
+
 </p>
 
 
