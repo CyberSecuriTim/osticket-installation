@@ -96,7 +96,7 @@ Open the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNy
 <p>
   This installation file directory contains the offline version of all the dependencies to ensure a consistent version is being used for all the files everytime this lab is done.
 
-  NOTE: Microsoft Edge (which is natively installed on the VM's operating system) should be able to facilitate the downloading process of all the 
+  NOTE: Microsoft Edge (which is natively installed as part the VM's operating system image) should be able to facilitate the downloading process of all the 
   files but if any problems are experienced, just download and use the google chrome browser instead).
  
   ![image](https://github.com/user-attachments/assets/c6f33add-41ba-4013-9473-17b98fc396ee)
