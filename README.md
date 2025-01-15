@@ -221,7 +221,7 @@ Congratulations!! You have now *hopefully* successfully installed osTicket.
 
   - To browse to the osTicket End Users ticket generation portal (within the VM): http://localhost/osTicket/
  
-![image](https://github.com/user-attachments/assets/468653c5-4756-40f7-95b8-4e02d3b9a865)
+  ![image](https://github.com/user-attachments/assets/468653c5-4756-40f7-95b8-4e02d3b9a865)
 
 </p>
 
