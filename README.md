@@ -28,7 +28,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 <p>
   
+  <h2>
+    
   STEP 1: Create and deploy a Windows 10 virtual machine within the [Azure Portal](https://portal.azure.com) with at least 2 Virtual CPU cores and 8GiB of memory.
+  
+  </h2>  
  
   - While creating the VM, simultaneously create a resource group for the VM to be deployed in and a new Virtual Network (Vnet).
   - Allow TCP port 3389 as an open inbound port on the created VM as this will enable an RDP (remote desktop protocol) connection to the VM in the cloud.
@@ -54,7 +58,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 <p>
-STEP 2: (Start/Turn on the VM in the Azure portal) Then using your preferred Remote Desktop client (the Windows Remote Desktop Connection App was used for my lab), establish an RDP connection to the VM using its public IP address and the admin account credentials that were assigned during the VM's creation.
+<h2> STEP 2: (Start/Turn on the VM in the Azure portal) Then using your preferred Remote Desktop client (the Windows Remote Desktop Connection App was used for my lab), establish an RDP connection to the VM using its public IP address and the admin account credentials that were assigned during the VM's creation.</h2>
    
   - The VM's public IP address was provisioned during its deployment in Azure and can be observed in the VM's overview section in the Azure portal.
 
