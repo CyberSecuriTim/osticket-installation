@@ -126,6 +126,11 @@ Open the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNy
 
 - Restart the IIS server within IIS manager (click restart on the right hand side in the actions panel) to ensure the PHP changes have taken effect. 
 
+- Install osTicket v1.15.8
+  - Download osTicket (osTicket-v1.15.8.zip) from the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) Folder
+  - Extract and copy “upload” folder to c:\inetpub\wwwroot
+  - Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
+
 
 </p>
 
