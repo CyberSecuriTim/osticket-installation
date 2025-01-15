@@ -150,7 +150,9 @@ Open the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNy
     -  Enable: php_intl.dll
     -  Enable: php_opcache.dll
   - Refresh the osTicket site in your browser and observe the changes.
-    
+ 
+![image](https://github.com/user-attachments/assets/7397d6c3-e7fe-441f-9c03-0d5d366690cd)
+
 </p>
 
 
