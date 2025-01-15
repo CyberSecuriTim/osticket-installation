@@ -84,6 +84,9 @@ STEP 3: Install/Enable IIS (Internet Information Services) in Windows WITH CGI a
 
 ![image](https://github.com/user-attachments/assets/c6f9b73c-b1bd-4485-8d06-2ff4366f82ea)
 
+   - To test the successful installation of IIS, type the VM's loopback address (127.0.0.0/8) into the address bar of a web browser and a screen that looks similar to this should be generated.
+![image](https://github.com/user-attachments/assets/409b7a50-7d1b-4d55-9fc3-fffbd533e5c4)
+
 </p>
 <h2>
 STEP 4: 
@@ -91,7 +94,10 @@ STEP 4:
 Open the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) Google Drive directory within the VM and begin downloading and installing the osTicket software dependencies.
 </h2>
 <p>
-  This installation file directory contains the offline version of all the dependencies to ensure a consistent version being used for all the files.
+  This installation file directory contains the offline version of all the dependencies to ensure a consistent version is being used for all the files everytime this lab is done.
+  - From the installation files: 
+    - Download and install VC_redist.x86.exe
+    - Download and install MySQL 5.5.62 
 </p>
 
 
