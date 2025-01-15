@@ -130,7 +130,11 @@ Open the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNy
   - Download osTicket (osTicket-v1.15.8.zip) from the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) Folder
   - Extract and copy “upload” folder to c:\inetpub\wwwroot
   - Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
+ 
+![image](https://github.com/user-attachments/assets/3a8b1d4e-b576-459a-b355-926d10bceef1)
 
+- Restart the IIS server within IIS Manager to ensure the changes take effect.
+- 
 
 </p>
 
