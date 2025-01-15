@@ -173,6 +173,11 @@ Open the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNy
 
 ![image](https://github.com/user-attachments/assets/dfee36b6-c721-4b16-9693-099db62c408a)
 
+
+- From the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) download and install HeidiSQL
+  - Run the HeidiSQL setup wizard (the default configurations can be left unchanged)
+  - Launch HeidiSQL
+  - Create a new session, use the username (root) and password that was assigned during the initial configuration of the MySQL server instance 
 </p>
 
 
