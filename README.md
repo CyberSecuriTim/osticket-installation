@@ -104,7 +104,9 @@ Open the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNy
       - Typical Setup
       - Launch Configuration Wizard (after installation)
       - Standard Configuration
-      - (Make a note of the root password) 
+      - Username: root
+      - Password: (Assign your own password)
+      - 
 </p>
 
 
