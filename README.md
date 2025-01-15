@@ -27,8 +27,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
+![image](https://github.com/user-attachments/assets/b26d7191-b638-462a-b96e-ab19c59c4b74)
+
 <p>
 <![image](https://github.com/user-attachments/assets/129f600e-d460-4ff3-93ae-76bce031b2a1)
+
+  ![image](https://github.com/user-attachments/assets/8ed0666f-fbb9-406b-b388-c15fc2dd38b5)
+
 
 >
 </p>
@@ -36,6 +41,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   STEP 1: Create a Windows 10 virtual machine in the Azure portal(https://portal.azure.com) with at least 2 Virtual CPU cores and 8GiB of memory.
  
   - While creating the VM, simultaneously create a resource group for the VM to be deployed in and a new Virtual Network (Vnet).
+  - Allow TCP port 3389 as an open inbound port on the created VM as this will enable an RDP connection to the VM in the cloud.
+  - Provision the administrator account's credentials and make a note of them as these will be used to remotely login to the VM via RDP.
 </p>
 <br />
 
