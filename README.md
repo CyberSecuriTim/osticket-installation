@@ -78,4 +78,5 @@ STEP 3: Install/Enable IIS (Internet Information Services) in Windows WITH CGI a
 </p>
 
 STEP 4: Open the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) Google Drive directory within the VM and begin downloading and installing the osTicket software dependencies.
+  - This installation file directory contains the offline version of all the dependencies to ensure a consistent version being used for all the files.
 
