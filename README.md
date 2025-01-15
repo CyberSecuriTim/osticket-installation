@@ -31,7 +31,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  STEP 1: Create a Windows 10 virtual machine in the [Azure portal](https://portal.azure.com) with 2-4 Virtual CPU cores.
+ 
+  - While creating the VM, simultaneously create a resource group to place the VM in and a new Virtual Network (Vnet).
 </p>
 <br />
 
