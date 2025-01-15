@@ -153,6 +153,11 @@ Open the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNy
  
 ![image](https://github.com/user-attachments/assets/7397d6c3-e7fe-441f-9c03-0d5d366690cd)
 
+- Rename "C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php" to "C:\inetpub\wwwroot\osTicket\include\ost-config.php"
+
+![image](https://github.com/user-attachments/assets/f8ca52af-e757-4205-83b2-ed24676cd607)
+
+
 </p>
 
 
