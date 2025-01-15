@@ -158,6 +158,14 @@ Open the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNy
 ![image](https://github.com/user-attachments/assets/f8ca52af-e757-4205-83b2-ed24676cd607)
 
 
+- Modify the permissions of the ost-config.php file
+  - Disable Inheritance (Remove all inherited permissions from this object)
+![image](https://github.com/user-attachments/assets/22b29a3f-7149-41b7-85c9-029d61fb6c1d)
+  - Add New permission
+    - Set the principal as "Everyone" and Basic permissions (Full control)
+   
+    ![image](https://github.com/user-attachments/assets/5d2aab0d-9e62-4149-8914-1673a1779c54)
+
 </p>
 
 
