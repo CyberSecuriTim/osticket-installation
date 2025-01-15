@@ -95,6 +95,9 @@ Open the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNy
 </h2>
 <p>
   This installation file directory contains the offline version of all the dependencies to ensure a consistent version is being used for all the files everytime this lab is done.
+
+  NOTE: Microsoft Edge (which is natively installed on the VM's operating system) should be able to facilitate the downloading process of all the 
+  files but if any problems are experienced, just download and use the google chrome browser instead).
  
   ![image](https://github.com/user-attachments/assets/c6f33add-41ba-4013-9473-17b98fc396ee)
 
@@ -103,7 +106,10 @@ Open the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNy
     - Download and install Rewrite Module (rewrite_amd64_en-US.msi)
     - Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip)
         - Create the directory "PHP" in the root directory of the C: volume (C:\PHP)
-        - Unzip the contents into C:\PHP 
+        - Unzip the contents into C:\PHP
+     
+    ![image](https://github.com/user-attachments/assets/0421ee26-20c0-46c8-ada9-0e42dfd44295)
+
     - Download and install VC_redist.x86.exe
     - Download and install MySQL 5.5.62
       - Typical Setup
