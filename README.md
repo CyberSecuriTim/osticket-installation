@@ -27,7 +27,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 <p>
-  STEP 1: Create and deploy a Windows 10 virtual machine within the Azure portal(https://portal.azure.com) with at least 2 Virtual CPU cores and 8GiB of memory.
+  
+  STEP 1: Create and deploy a Windows 10 virtual machine within the [Azure Portal](https://portal.azure.com) with at least 2 Virtual CPU cores and 8GiB of memory.
  
   - While creating the VM, simultaneously create a resource group for the VM to be deployed in and a new Virtual Network (Vnet).
   - Allow TCP port 3389 as an open inbound port on the created VM as this will enable an RDP (remote desktop protocol) connection to the VM in the cloud.
@@ -74,5 +75,7 @@ STEP 3: Install/Enable IIS (Internet Information Services) in Windows WITH CGI a
 
 ![image](https://github.com/user-attachments/assets/c6f9b73c-b1bd-4485-8d06-2ff4366f82ea)
 
-  
 </p>
+
+STEP 4: Open the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) Google Drive directory within the VM and begin downloading and installing the osTicket software dependencies.
+
