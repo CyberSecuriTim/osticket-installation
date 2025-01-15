@@ -59,7 +59,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 <p>
 <h2> 
-STEP 2: (Start/Turn on the VM in the Azure portal) Then using your preferred Remote Desktop client (the Windows Remote Desktop Connection App was used for my lab), establish an RDP connection to the VM using its public IP address and the admin account credentials that were assigned during the VM's creation.
+STEP 2: (Start/Turn on the VM in the Azure portal) Then using your preferred Remote Desktop client (I used the Windows Remote Desktop Connection App for my lab), establish an RDP connection to the VM using its public IP address and the admin account credentials that were assigned during the VM's creation.
 </h2>
    
   - The VM's public IP address was provisioned during its deployment in Azure and can be observed in the VM's overview section in the Azure portal.
