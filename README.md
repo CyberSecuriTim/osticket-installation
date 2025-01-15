@@ -17,7 +17,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Install/Enable Internet Information Services (IIS) from the Windows control panel WITH CGI (Common Gateway Interface) and Common HTTP Features
+- Internet Information Services (IIS) WITH CGI and Common HTTP Features AND IIS Management Console
 - From the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) Directory in google drive:
   - PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
   - Rewrite Module (rewrite_amd64_en-US.msi)
