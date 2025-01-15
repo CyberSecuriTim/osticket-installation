@@ -213,6 +213,11 @@ Congratulations!! You have now *hopefully* successfully installed osTicket.
 
   - Set permissions to "Read" only for the "C:\inetpub\wwwrooot\osTicket\include\ost-config.php" file
 
+![image](https://github.com/user-attachments/assets/b78b4b88-55ae-467f-9101-266b58c4d248)
+
+- Notes:
+  - To browse to your help desk login page: http://localhost/osTicket/scp/login.php
+  - To browse to the End Users osTicket ticket generation portal: http://localhost/osTicket/ 
 </p>
 
 
