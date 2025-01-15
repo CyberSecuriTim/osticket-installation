@@ -119,9 +119,12 @@ Open the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNy
       - Password: (Assign your own password)
      
 
-  - Open IIS Manager and run as administrator
+  - Open IIS Manager and run as administrator. Then open "PHP Manager" and register a new PHP version.
+      - Provide the path to the downloaded PHP executable file (C:\PHP\php-cgi.exe)
 
-![image](https://github.com/user-attachments/assets/76bd8122-bd5a-466f-90d9-fe91504a2a21)
+  ![image](https://github.com/user-attachments/assets/57903f75-478d-4ec4-9a1f-1f06e1827275)
+
+
 
 </p>
 
