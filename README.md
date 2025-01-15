@@ -26,6 +26,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - MySQL 5.5.62 (mysql-5.5.62-win32.msi)
 
 <h2>Installation Steps</h2>
+<p>
+  STEP 1: Create a Windows 10 virtual machine in the Azure portal(https://portal.azure.com) with at least 2 Virtual CPU cores and 8GiB of memory.
+ 
+  - While creating the VM, simultaneously create a resource group for the VM to be deployed in and a new Virtual Network (Vnet).
+  - Select TCP port 3389 as an open inbound port on the created VM as this will enable an RDP connection to the VM in the cloud.
+  - Provision the administrator account's credentials and make a note of them as these will be used to remotely login to the VM via RDP.
+</p>
 
 ![image](https://github.com/user-attachments/assets/b26d7191-b638-462a-b96e-ab19c59c4b74)
 
@@ -37,13 +44,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 >
 </p>
-<p>
-  STEP 1: Create a Windows 10 virtual machine in the Azure portal(https://portal.azure.com) with at least 2 Virtual CPU cores and 8GiB of memory.
- 
-  - While creating the VM, simultaneously create a resource group for the VM to be deployed in and a new Virtual Network (Vnet).
-  - Select TCP port 3389 as an open inbound port on the created VM as this will enable an RDP connection to the VM in the cloud.
-  - Provision the administrator account's credentials and make a note of them as these will be used to remotely login to the VM via RDP.
-</p>
+
 <br />
 
 <p>
