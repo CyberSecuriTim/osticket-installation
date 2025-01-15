@@ -169,7 +169,7 @@ Open the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNy
 - Continue configuring osTicket in the browser (click Continue)
   - Name the HelpDesk
   - Provide the default email address
-    - This is the email address that will receive email address from the help desk customers/users) 
+    - This is the email address that will receive emails from the help desk customers/users) 
 
 ![image](https://github.com/user-attachments/assets/dfee36b6-c721-4b16-9693-099db62c408a)
 
