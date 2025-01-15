@@ -65,8 +65,14 @@ STEP 2: (Start/Turn on the VM in the Azure portal) Then using your preferred Rem
 <br />
 
 <p>
-STEP 3: Install/Enable IIS in Windows WITH CGI and Common HTTP Features AND IIS Management Console
+STEP 3: Install/Enable IIS (Internet Information Services) in Windows WITH CGI and Common HTTP Features AND IIS Management Console
  
   - Open the Control Panel and navigate to Programs & Features ----> Turn Windows Features On/Off
+  - Internet Inforamtion Services --> Web Management Tools --> [x] IIS Management Console
+  - Internet Information Services --> World Wide Web Services --> Application Development Features --> [X] CGI
+  - Internet Information Services --> World Wide Web Services --> [X] Common HTTP Features 
+
+![image](https://github.com/user-attachments/assets/c6f9b73c-b1bd-4485-8d06-2ff4366f82ea)
+
   
 </p>
