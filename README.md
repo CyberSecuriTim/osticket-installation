@@ -56,6 +56,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 STEP 2: (Start/Turn on the VM in the Azure portal) Then using your preferred Remote Desktop client (the Windows Remote Desktop Connection App was used for my lab), establish an RDP connection to the VM using its public IP address and the admin account credentials that were assigned during the VM's creation.
    
   - The VM's public IP address was provisioned during its deployment in Azure and can be observed in the VM's overview section in the Azure portal.
+
+![image](https://github.com/user-attachments/assets/717a484f-161d-4a11-8c7f-fd1752d2b202)
+
+
  
 </p>
 <br />
+
+<p>
+STEP 3: Install/Enable IIS in Windows WITH CGI and Common HTTP Features AND IIS Management Console
+ 
+  - Open the Control Panel and navigate to Programs & Features ----> Turn Windows Features On/Off
+  
+</p>
