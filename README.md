@@ -203,7 +203,14 @@ Congratulations!! You have now *hopefully* successfully installed osTicket.
 </p>
 
 <h2>
-  FINAL STEP: Time to Clean Up!
+  FINAL STEP: Time to clean Up!
 </h2>
+
+<p>
+  - Delete "C:\inetpub\wwwroot\osTicket\setup" folder
+  
+  ![image](https://github.com/user-attachments/assets/ddf25eeb-815b-4c45-857a-2b841fae4631)
+
+</p>
 
 
