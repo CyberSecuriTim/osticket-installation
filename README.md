@@ -99,6 +99,11 @@ Open the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNy
   ![image](https://github.com/user-attachments/assets/c6f33add-41ba-4013-9473-17b98fc396ee)
 
   - From the installation files:
+    - Download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
+    - Download and install Rewrite Module (rewrite_amd64_en-US.msi)
+    - Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip)
+        - Create the directory "PHP" in the root directory of the C: volume (C:\PHP)
+        - Unzip the contents into C:\PHP 
     - Download and install VC_redist.x86.exe
     - Download and install MySQL 5.5.62
       - Typical Setup
@@ -106,7 +111,7 @@ Open the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNy
       - Standard Configuration
       - Username: root
       - Password: (Assign your own password)
-      - 
+     
 </p>
 
 
