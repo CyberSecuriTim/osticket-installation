@@ -217,7 +217,7 @@ Congratulations!! You have now *hopefully* successfully installed osTicket.
 
 - Notes:
   - To browse to your help desk login page (within the VM): http://localhost/osTicket/scp/login.php
-  - To browse to the End Users osTicket ticket generation portal (within the VM): http://localhost/osTicket/ 
+  - To browse to the osTicket End Users ticket generation portal (within the VM): http://localhost/osTicket/ 
 </p>
 
 
