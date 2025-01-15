@@ -48,7 +48,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![image](https://github.com/user-attachments/assets/422f17c1-d0f8-4bef-b770-f0445135bdd7)
 
-   - Optionally, to enhance the security posture of the VM and reduce its attack surface you can restrict the source IP addresses (to known IP addresses) that can successfully establish an RDP connection to the VM over 
+   - Optionally, to enhance the security posture of the VM and reduce its attack surface you can restrict the source IP addresses that can successfully establish an RDP connection to the VM over 
     the internet via TCP port 3389 by modifying the inbound port rule for RDP in the VM's Network Security Group
 
 ![image](https://github.com/user-attachments/assets/b164c754-b60a-4e65-89c4-b333509e003a)
