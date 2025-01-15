@@ -124,6 +124,7 @@ Open the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNy
 
   ![image](https://github.com/user-attachments/assets/57903f75-478d-4ec4-9a1f-1f06e1827275)
 
+- Restart the IIS server within IIS manager (click restart on the right hand side in the actions panel) to ensure the PHP changes have taken effect. 
 
 
 </p>
