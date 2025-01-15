@@ -173,12 +173,20 @@ Open the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNy
 
 ![image](https://github.com/user-attachments/assets/dfee36b6-c721-4b16-9693-099db62c408a)
 
-
 - From the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) download and install HeidiSQL
   - Run the HeidiSQL setup wizard (the default configurations can be left unchanged)
   - Launch HeidiSQL
   - Create a new session, use the username (root) and password that was assigned during the initial configuration of the MySQL server instance
-    - Notice that TCP port 3306 is being used by the HeidiSQL client to establish the connection to the MySQL server instance (as this is the TCP/IP port that is used by default to connect to MySQL servers).      
+    - Notice that TCP port 3306 is being used by the HeidiSQL client to establish the connection to the MySQL server instance (as this is the TCP/IP port that is used by default to connect to MySQL servers).
+    
+![image](https://github.com/user-attachments/assets/070288e4-89c0-40cd-94b9-fca927bb1bdb)
+  - Connect to the session
+  - Create a database called "osTicket"
+    - Right click Unnamed, select "Create new" and select "Database"    
+        
+
+![image](https://github.com/user-attachments/assets/daf9edf2-c4bc-4163-bd63-e6134f880fe2)
+
 </p>
 
 
