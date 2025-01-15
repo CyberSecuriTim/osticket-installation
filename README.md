@@ -95,10 +95,16 @@ Open the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNy
 </h2>
 <p>
   This installation file directory contains the offline version of all the dependencies to ensure a consistent version is being used for all the files everytime this lab is done.
-  
+ 
+  ![image](https://github.com/user-attachments/assets/c6f33add-41ba-4013-9473-17b98fc396ee)
+
   - From the installation files:
     - Download and install VC_redist.x86.exe
-    - Download and install MySQL 5.5.62 
+    - Download and install MySQL 5.5.62
+      - Typical Setup
+      - Launch Configuration Wizard (after installation)
+      - Standard Configuration
+      - (Make a note of the password) 
 </p>
 
 
