@@ -199,7 +199,7 @@ Open the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNy
 
 ![image](https://github.com/user-attachments/assets/057c8d77-eaa8-4e08-a53a-20d1e527ecf7)
 
-Congratulations!! You have now *hopefully* successfully installed osTicket.
+Congratulations!! You have now successfully installed osTicket...*hopefully* 
 </p>
 
 <h2>
