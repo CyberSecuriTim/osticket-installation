@@ -24,6 +24,8 @@ This tutorial outlines the prerequisites and installation procedure of the open-
   - PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP  
   - VC_redist.x86.exe
   - MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+  - HeidiSQL (HeidiSQL_12.3.0.6589_Setup.exe)
+  - osTicket v1.15.8
 
 <h2>Installation Steps</h2>
 <p>
