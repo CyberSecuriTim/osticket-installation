@@ -230,7 +230,7 @@ Congratulations!! You have now successfully installed osTicket...*hopefully* ☺
 
 <h2>
   
-  LASTLY, If you would like a step-by-step procedure on how to configure your osTicket portal post-installation feel free visit my other github repository [here].(https://github.com/CyberSecuriTim/osticket-post-install-config).
+  LASTLY, If you would like a step-by-step procedure on how to configure your osTicket portal post-installation feel free visit my other github repository [here](https://github.com/CyberSecuriTim/osticket-post-install-config).
 
 </h2>
 
