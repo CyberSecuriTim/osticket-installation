@@ -239,7 +239,7 @@ Congratulations!! You have now successfully installed osTicket...*hopefully* ☺
   - PS: If you ever wanted to take a temporary break and save a bit of the money you must spend to have your computing resources hosted in Azure you can stop/deallocate 
     your VM within the Azure portal.
      - Within the [Azure portal](https://azure.portal.com) home page select or search for "Virtual Machines"
-     - Then select the VM that you created for the osTicket lab and select "Stop" and confirm your selection.
+     - Then select the VM that you created for the osTicket lab and select "Stop" then confirm your selection.
     
    ![image](https://github.com/user-attachments/assets/f69f2e4f-4954-4976-a285-71bef8b78b86)
   </h3>
