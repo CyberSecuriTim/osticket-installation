@@ -13,7 +13,7 @@ This tutorial outlines the prerequisites and installation procedure of the open-
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 22H2 </b> 
 
 <h2>List of Prerequisites</h2>
 
@@ -38,7 +38,7 @@ This tutorial outlines the prerequisites and installation procedure of the open-
  
   - While creating the VM, simultaneously create a resource group for the VM to be deployed in and a new Virtual Network (Vnet).
   - Allow TCP port 3389 as an open inbound port on the created VM as this will enable an RDP (remote desktop protocol) connection to the VM in the cloud.
-  - Provision the administrator account's credentials and make a note of them as these will be used to remotely login to the VM via RDP.
+  - Provision the administrator account's credentials and make a note of them as these will be used to remotely log in to the VM via RDP.
 </p>
 
 ![image](https://github.com/user-attachments/assets/b26d7191-b638-462a-b96e-ab19c59c4b74)
@@ -86,7 +86,7 @@ STEP 3: Install/Enable IIS (Internet Information Services) in Windows WITH CGI a
 
 ![image](https://github.com/user-attachments/assets/c6f9b73c-b1bd-4485-8d06-2ff4366f82ea)
 
-   - To test the successful installation of IIS, type the VM's loopback address (any ip address in the address space of 127.0.0.0/8) into the address bar of a web browser and a screen that looks similar to this should be generated.
+   - To test the successful installation of IIS, type the VM's loopback address (any IP address in the address space of 127.0.0.0/8) into the address bar of a web browser and a screen that looks similar to this should be generated.
 ![image](https://github.com/user-attachments/assets/409b7a50-7d1b-4d55-9fc3-fffbd533e5c4)
 
 </p>
@@ -98,8 +98,8 @@ Open the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNy
 <p>
   This installation file directory contains the offline version of all the dependencies to ensure a consistent version is being used for all the files everytime this lab is done.
 
-  NOTE: Microsoft Edge (which is natively installed as part the VM's operating system image) should be able to facilitate the downloading process of all the 
-  files but if any problems are experienced, just download and use the google chrome browser instead).
+  NOTE: Microsoft Edge (which is natively installed as part of the VM's operating system image) should be able to facilitate the downloading process of all the 
+  files but if any problems are experienced, just download and use the Google Chrome browser instead).
  
   ![image](https://github.com/user-attachments/assets/c6f33add-41ba-4013-9473-17b98fc396ee)
 
@@ -118,7 +118,7 @@ Open the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNy
       - Launch Configuration Wizard (after installation)
       - Standard Configuration
       - Username: root
-      - Password: (Assign your own password)
+      - Password: (Assign your password)
      
 
   - Open IIS Manager and run as administrator. Then open "PHP Manager" and register a new PHP version.
@@ -130,7 +130,7 @@ Open the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNy
 
 - Install osTicket v1.15.8
   - Download osTicket (osTicket-v1.15.8.zip) from the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) Folder
-  - Extract and copy “upload” folder to c:\inetpub\wwwroot
+  - Extract and copy the “upload” folder to c:\inetpub\wwwroot
   - Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
  
 ![image](https://github.com/user-attachments/assets/3a8b1d4e-b576-459a-b355-926d10bceef1)
@@ -138,7 +138,7 @@ Open the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNy
 - Restart the IIS server within IIS Manager to ensure the changes take effect.
 
 - Within IIS Manager, in the connections panel on the left side, navigate to Sites ---> Default Web Site ---> osTicket
-  - Then select "Browse *:80" to establish an http connection via port 80 on the local host address (127.0.0.0/8) to the osTicket server instance.
+  - Then select "Browse *:80" to establish an HTTP connection via port 80 on the local host address (127.0.0.0/8) to the osTicket server instance.
  
 ![image](https://github.com/user-attachments/assets/173eda31-78e2-4978-a94e-60de1520df6f)
 
@@ -184,7 +184,7 @@ Open the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNy
 ![image](https://github.com/user-attachments/assets/070288e4-89c0-40cd-94b9-fca927bb1bdb)
   - Connect to the session
   - Create a database called "osTicket"
-    - Right click Unnamed, select "Create new" and select "Database"    
+    - Right-click Unnamed, select "Create new" and select "Database"    
         
 
 ![image](https://github.com/user-attachments/assets/daf9edf2-c4bc-4163-bd63-e6134f880fe2)
@@ -192,7 +192,7 @@ Open the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNy
 - Continue configuring osTicket in the browser:
   - MySQL Database: osTicket
   - MySQL Username: root
-  - MySQL Password: (whatever password was used during the intial creation of the MySQL server instance)   
+  - MySQL Password: (whatever password was used during the initial creation of the MySQL server instance)   
 
 
 ![image](https://github.com/user-attachments/assets/e59037d2-87e5-495c-9e70-fcfeb8592980)
@@ -230,15 +230,15 @@ Congratulations!! You have now successfully installed osTicket...*hopefully* ☺
 
 <h2>
   
-  LASTLY, If you would like a step-by-step procedure on how to configure your osTicket portal post-installation feel free visit my other github repository [here](https://github.com/CyberSecuriTim/osticket-post-install-config).
+  LASTLY, If you would like a step-by-step procedure on how to configure your osTicket portal post-installation feel free to visit my other GitHub repository [here](https://github.com/CyberSecuriTim/osticket-post-install-config).
 
 </h2>
 
   <h3>
 
-  - PS: If you ever wanted to take a temporary break and save a bit of the money you must spend to have your computing resources hosted in Azure you can stop/deallocate 
+  - PS: If you ever wanted to take a temporary break and reduce the cost incurred to have your computing resources hosted in Azure you can stop/deallocate 
     your VM within the Azure portal.
-     - Within the [Azure portal](https://azure.portal.com) home page select or search for "Virtual Machines"
+     - From the [Azure portal's](https://portal.azure.com) home page select or search for "Virtual Machines"
      - Then select the VM that you created for the osTicket lab and select "Stop" then confirm your selection.
     
    ![image](https://github.com/user-attachments/assets/f69f2e4f-4954-4976-a285-71bef8b78b86)
