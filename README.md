@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation procedure of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the prerequisites and installation procedure for the open-source help desk ticketing system osTicket.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -17,8 +17,8 @@ This tutorial outlines the prerequisites and installation procedure of the open-
 
 <h2>List of Prerequisites</h2>
 
-- Internet Information Services (IIS) WITH CGI and Common HTTP Features AND IIS Management Console
-- From the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) Directory in google drive:
+- Internet Information Services (IIS) with CGI and Common HTTP Features and IIS Management Console
+- From the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) Directory in Google Drive:
   - PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
   - Rewrite Module (rewrite_amd64_en-US.msi)
   - PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP  
